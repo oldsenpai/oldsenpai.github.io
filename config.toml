@@ -1,0 +1,4 @@
+baseURL = "https://oldsenpai.github.io"
+languageCode = "ja-jp"
+title = "Oldsenpai2.com"
+publishDir = "docs"

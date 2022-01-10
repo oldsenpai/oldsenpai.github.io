@@ -1,0 +1,68 @@
+html {
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+header {
+    color: inherit;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 35rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0.5rem;
+}
+  
+h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 1rem;
+}
+
+time {
+    display: block;
+    color: #666666;
+    font-size: 0.8rem;
+}
+
+nav a {
+    color: inherit;
+}
+
+article,
+section {
+  margin: 4rem 0;
+}
+
+.articles ul {
+    text-align: left;
+    list-style: none;
+    padding: 0;
+}
+
+figure {
+    margin: auto;
+}
+
+figure img {
+    display: block;
+    max-width: 100%;
+}
+
+figcaption p {
+    margin-top: inherit;
+    text-align: center;
+    line-height: 1.5;
+    color: #666666;
+}
