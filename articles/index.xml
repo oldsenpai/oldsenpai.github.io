@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on Oldsenpai2.com</title><link>https://oldsenpai.github.io/articles/</link><description>Recent content in Articles on Oldsenpai2.com</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sun, 16 Jan 2022 18:02:06 +0900</lastBuildDate><atom:link href="https://oldsenpai.github.io/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>記事と画像の表示テスト</title><link>https://oldsenpai.github.io/articles/2022_01_16_/</link><pubDate>Sun, 16 Jan 2022 18:02:06 +0900</pubDate><guid>https://oldsenpai.github.io/articles/2022_01_16_/</guid><description>静的サイトジェネレーターであるhugoを利用してサイトを作成してみた。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on Oldsenpai2.com</title><link>https://oldsenpai.github.io/articles/</link><description>Recent content in Articles on Oldsenpai2.com</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Thu, 20 Jan 2022 13:06:19 +0900</lastBuildDate><atom:link href="https://oldsenpai.github.io/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>新しいマウスとマウスパッド</title><link>https://oldsenpai.github.io/articles/20220120_new_mouse_and_pad/</link><pubDate>Thu, 20 Jan 2022 13:06:19 +0900</pubDate><guid>https://oldsenpai.github.io/articles/20220120_new_mouse_and_pad/</guid><description>PCでよくFPSをプレイしている。
+ひと月前に新しいマウスとマウスパッドとして以下の2つを買った。
+ENDGAME GEAR XM1R (https://www.endgamegear.com/xm1r/gaming-mice) Artisan 飛燕 (https://www.artisan-jp.com/fx-hien.html) マウスはLogicoolのGpro Wirelessを半年ほど使用していて、その前にはBenQ ZowieのZA-13を長らく使用していた。Gproについては「かるーい」「無線いいなー」と思っていたが、唯一背が高いことが気になっていた。これは私の手があまり大きくないせいだ。
+上記の理由で、今回このマウスの購入に至った。結果は私の手にはちょうど良い大きさで気に入っている。クリックはGproに比べて固め、Gproの時は誤クリックをよくしていたがそれも減った。
+マウスパッドはもともとZowieのG-SRというものを使用していた。特に不満はなかったが、Artisanという会社はマウスパッドのみを作り続けていて、FPSプロでも愛用者がいることから、以前より気になっていたのでマウスの更新と合わせて勢いで購入した。結果はこちらも大満足、よく滑るしよくとまる。
+XM1RとGproと飛燕
+白のマウスと赤いマウスパッドという組み合わせが派手派手で良い。
+マウス、マウスパッドともに良い買い物になった。
+鬼滅の刃アニメの遊郭編はまだ1話しか視聴していない。
+オープニングがとても好き</description></item><item><title>記事と画像の表示テスト</title><link>https://oldsenpai.github.io/articles/2022_01_16_/</link><pubDate>Sun, 16 Jan 2022 18:02:06 +0900</pubDate><guid>https://oldsenpai.github.io/articles/2022_01_16_/</guid><description>静的サイトジェネレーターであるhugoを利用してサイトを作成してみた。
 github pagesにホスティングしてもらっている。
 これまでに撮影した写真の一部
 コロナが流行ってからは全くカメラを利用していない
