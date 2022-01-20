@@ -7,7 +7,7 @@ draft: true
 PCでよくFPSをプレイしている。  
 ひと月前に新しいマウスとマウスパッドとして以下の2つを買った。  
 - ENDGAME GEAR XM1R  (https://www.endgamegear.com/xm1r/gaming-mice)
-- Artisan 飛燕  <br>(https://www.artisan-jp.com/fx-hien.html)
+- Artisan 飛燕  (https://www.artisan-jp.com/fx-hien.html)
 
 マウスはLogicoolのGpro Wirelessを半年ほど使用していて、その前にはBenQ ZowieのZA-13を長らく使用していた。Gproについては「かるーい」「無線いいなー」と思っていたが、唯一背が高いことが気になっていた。これは私の手があまり大きくないせいだ。  
 上記の理由で、今回このマウスの購入に至った。結果は私の手にはちょうど良い大きさで気に入っている。クリックはGproに比べて固め、Gproの時は誤クリックをよくしていたがそれも減った。
