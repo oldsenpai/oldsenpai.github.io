@@ -1,7 +1,7 @@
 ---
 title: "新しいマウスとマウスパッド"
 date: 2022-01-20T13:06:19+09:00
-draft: true
+draft: false
 ---
 
 PCでよくFPSをプレイしている。  
